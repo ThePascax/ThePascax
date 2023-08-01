@@ -1,9 +1,15 @@
-### Hi there 👋
+# Hi there 👋
+I'm Pascax, a guy who likes programming, diverse tastes and good socialization, anything we're there to help.
+<br>
+A hug from Pascax!!
+<br>
+Learning: **Everything and more.**
+
+![image](https://github.com/ThePascax/ThePascax/assets/83775908/7d3554c5-c630-44c2-86d3-0d5985c543ad)
 
 <!--
-**ThePascax/ThePascax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
