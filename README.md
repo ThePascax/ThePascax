@@ -5,7 +5,7 @@ A hug from Pascax!!
 <br>
 Learning: **Everything and more.**
 
-![image](https://github.com/ThePascax/ThePascax/assets/83775908/7d3554c5-c630-44c2-86d3-0d5985c543ad)
+![image](https://github.com/ThePascax/ThePascax/assets/83775908/3b3b6a5a-aa27-4196-aa7b-a0e2e0d69eaa)
 
 <!--
 Here are some ideas to get you started:
